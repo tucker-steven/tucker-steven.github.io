@@ -1,1 +1,0 @@
-# tucker-steven.github.io
