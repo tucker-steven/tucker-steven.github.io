@@ -30,6 +30,12 @@
 ## 💼 Professional Experience  
 
 **Senior Android Developer**    
+BC Ferries Services Inc *(Dec 2024 – Nov 2025)*  
+- **MPOS:** Mobile POS for ticketing and reservation redemption  
+- **CSD:** Trained and optimized client side models  
+- **Tech:** Kotlin, Java, MobiControl, UDB, ZPL  
+
+**Senior Android Developer**    
 Rivian Automotive Inc *(Dec 2023 – Jun 2024)*  
 - **Voice Assistant:** Replaced Alexa with inhouse assistant using Sherpa and ONNX  
 - **LLM AI:** Trained and optimized client side models  
@@ -135,14 +141,13 @@ Stuck On Inc. (My company) *(Nov 2012 – Feb 2023)*
 - **Tech:** Java, Kotlin, Compose, HTML5, Figma, MD, Android, API, Web, JSON, SQL, AWS, NoSQL  
 
 **Software Engineer / Team Lead: Zynga Inc.**  
-Five Mobile Inc. (Became Zynga) *(Jun 2010 – Oct 2012)*  
+Five Mobile Inc. (acquired by Zynga) *(Jun 2010 – Oct 2012)*  
 - **Zynga Poker:** Added features, bug fixes, eventually lead team  
 - **Words With Friends:** Assisted with feature development  
 - **GDK:** Implemented core library for game development, lead team for some components  
 - **Slots With Friends:** Solo team for developing slots demo app  
 - **Solitaire:** Built reusable library for card games  
 - **Reports:** Profiled pages, optimized SQL calls, and added caching  
-- Five Mobile was acquired by Zynga in July 2011  
 - **Cineplex:** Wrote UI for entire app  
 - **The Score:** Added sports and maintained code base using cross platform design  
 - **Tech:** Java, Android, Blackberry, TV, SQL,  
