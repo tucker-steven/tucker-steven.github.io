@@ -49,7 +49,7 @@ Thoughtworks (Project/Contract completed) *(Mar 2023 – Sep 2023)*
 - **Tech:** Kotlin, Java, AOSP  
 
 **Senior Android Developer**  
-Dr. Bill May *(2022 – Nov 2022)*  
+Dr. Bill *(May 2022 – Nov 2022)*  
 - **Develop:** Architect and implement changes to migrate from Room database to live calls  
 - **Bug fix:** Track down and fix bugs based on reports, customer feedback, and log tracing  
 - **Tech:** Kotlin, Room, KMP  
@@ -69,7 +69,7 @@ Walmart (Office closed) *(Mar 2020 – Mar 2021)*
 - **Tech:** Java, Kotlin, React Native  
 
 **Principle Android Developer**  
-Trader Corp Jun *(2019 – Nov 2019)*  
+Trader Corp *(Jun 2019 – Nov 2019)*  
 - **Architect:** Responsible for modularizing the codebase and designing new libraries  
 - **Android Lead:** Mentor new and existing team members. Manage technical issues within team  
 - **Developer:** Implement features (push, re-engagement), bug fixing, recommend improvements  
