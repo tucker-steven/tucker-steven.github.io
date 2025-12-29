@@ -168,6 +168,7 @@ TBD
 
 ---  
 
-## Education and Certifications  
+## Education  
 
-TBD
+**Computer Science & Business Administration**  
+Memorial University of Newfoundland
