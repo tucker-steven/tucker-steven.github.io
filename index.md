@@ -164,7 +164,12 @@ Independant tasks *(2000 – 2007)*
 
 ## Leadership & Influence  
 
-TBD
+- Provided technical direction and architectural leadership for complex Android systems, including modularization, shared libraries, and long-term platform strategy  
+- Led voice and AI-focused Android initiatives, including in-house assistant development, on-device model optimization, and system-level UI integration  
+- Mentored and supported developers through code reviews, refactoring guidance, and architectural decision-making across multiple teams and organizations  
+- Influenced cross-functional teams (product, backend, design, QA) to align mobile constraints with API design, UX, and delivery timelines  
+- Led modernization efforts across legacy Android codebases, including migrations to Jetpack Compose, improved testability, and long-term maintainability  
+- Established quality, security, and release practices that improved stability, performance, and confidence in production releases  
 
 ---  
 
