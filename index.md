@@ -1,4 +1,5 @@
 # Steven Tucker  
+#### Senior Android Developer  
 
 Canada (Remote)  
 [+1(647)867‑9541](tel:+16478679541)  
@@ -151,7 +152,7 @@ Cathexis Inc. (Became IDBlue Inc.) *(2007 – 2008)*
 - **ID Blue:** Exposure to debugging from Oscilloscope to C, C++, C#, over Serial, Bluetooth, USB  
 - **Drivers:** Wrote C++ drivers for communicating with device and marshaled it C#  
 - **Demos:** Wrote Demos in C# and XaML for clients including Bill Gates  
-- **Tech:** Palm Pilot (.Net), Blackberry, Binary, Oscilloscope, Drivers, RFID, Bluetooth, Java, C, C++, C#, Windows Phone, Xaml  
+- **Tech:** Palm Pilot (.Net), Blackberry, Binary, Oscilloscope, Drivers, RFID, Bluetooth, Java, C, C++, C#, Windows Phone, Xaml 
 
 **Programmer**  
 Independant tasks *(2000 – 2007)*  
