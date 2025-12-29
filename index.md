@@ -1,33 +1,27 @@
 # Steven Tucker  
 
-📍 Toronto, Ontario  
-📞 [(647) 867‑9541](tel:+16478679541)  
-📧 [tuckersteven@hotmail.com](mailto:tuckersteven@hotmail.com)  
-🔗 [linkedin.com/in/sdwt](https://www.linkedin.com/in/sdwt/)  
-🌐 [tucker-steven.github.io](https://tucker-steven.github.io/)  
-📄 [Download Resume (PDF)](StevenTucker-Resume.pdf)  
+Canada (Remote)  
+[+1(647)867‑9541](tel:+16478679541)  
+[tuckersteven@hotmail.com](mailto:tuckersteven@hotmail.com)  
+[linkedin.com/in/sdwt](https://www.linkedin.com/in/sdwt/)  
+[tucker-steven.github.io](https://tucker-steven.github.io/)  
+[Download Resume (PDF)](StevenTucker-Resume.pdf)  
 
 ---  
 
-## 👩‍⚕️ Professional Summary  
+## Professional Summary  
 
-
-
----  
-
-## 🌟 Highlights  
-
-
+TBD
 
 ---  
 
-## 🧰 Key Skills  
+## Core Skills / Technical Stack  
 
-
+TBD
 
 ---  
 
-## 💼 Professional Experience  
+## Professional Experience  
 
 **Senior Android Developer**    
 BC Ferries Services Inc *(Dec 2024 – Nov 2025)*  
@@ -168,11 +162,12 @@ Independant tasks *(2000 – 2007)*
 
 ---  
 
-## 🎓 Education and Certifications  
+## Leadership & Influence  
 
-
+TBD
 
 ---  
 
-## 📌 Additional Information  
+## Education and Certifications  
 
+TBD
