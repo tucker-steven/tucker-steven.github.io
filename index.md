@@ -1,5 +1,5 @@
 # Steven Tucker  
-#### Senior Android Developer  
+### Senior Android Developer  
 
 Canada (Remote)  
 [+1(647)867‑9541](tel:+16478679541)  
