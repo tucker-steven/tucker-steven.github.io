@@ -1,16 +1,16 @@
 # Steven Tucker  
 
 <div class="between">
-  <span>
-    Senior Android Developer<br>
-    <a href="tel:+16478679541">+1 (647) 867‑9541</a><br>
-    <a href="mailto:tuckersteven@hotmail.com">tuckersteven@hotmail.com</a>
-  </span>
-  <span>
-    Canada (Remote)<br>
-    <a href="https://www.linkedin.com/in/sdwt/">linkedin.com/in/sdwt</a><br>
-    <a href="https://tucker-steven.github.io/">tucker-steven.github.io</a>
-  </span>
+  <span>Senior Android Developer</span>
+  <span>Canada (Remote)</span>
+</div>
+<div class="between">
+  <span><a href="tel:+16478679541">+1 (647) 867‑9541</a></span>
+  <span><a href="https://www.linkedin.com/in/sdwt/">https://linkedin.com/in/sdwt</a></span>
+</div>
+<div class="between">
+  <span><a href="mailto:tuckersteven@hotmail.com">tuckersteven@hotmail.com</a></span>
+  <span><a href="https://tucker-steven.github.io/">https://tucker-steven.github.io</a></span>
 </div>
 
 [Download Resume (PDF)](StevenTucker-Resume.pdf)  
