@@ -1,5 +1,12 @@
 @import
 url("https://pages-themes.github.io/cayman/assets/css/style.css");
+
+.between {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 0; /* optional spacing between rows */
+}
+
 .page-header {
   position: sticky;
   top: 0;
