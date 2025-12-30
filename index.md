@@ -19,16 +19,16 @@ Senior Android Developer with 15+ years of experience building scalable, maintai
 
 ## Core Skills / Technical Stack  
 
-- **Core Android Development:** 15+ years, Android 1.6 to 14, White Label Apps & Flavors  
-- **Kotlin:** 6+ years, extensions, higher order functions, class types, generics, delegation  
-- **Jetpack Compose:** 5+ years, responsive design, State driven
+- **Core Android Development:** 15+ years, Android 1.6 to 14, White label apps & Flavors  
+- **Kotlin:** 6+ years, Extensions, Higher-Order functions, Class types, Generics, Delegation  
+- **Jetpack Compose:** 5+ years, Responsive design, State-Driven UI
 - **Security:** Secure coding, E2E Encryption, Best practices, Auth patterns, Certs, Storage
 - **Domain Expertise:** Financial Services, AI & Voice Assistants, System UI, E-commerce, Media  
-- **Concurrency:** Coroutines, Flow, RxJava, multithreading, concurrent design patterns  
+- **Concurrency:** Coroutines, Flow, RxJava, Multithreading, Concurrent design patterns  
 - **Databases:** UltraLite, Room, SQLite, Firebase, Encrypted Cache, SQL  
 - **Architectural Patterns:** MVVM, CLEAN, SOLID, MVI, MVC, MVP  
-- **UI/UX:** Design systems, Internationalization, component libraries, Accessibility (WCAG)  
-- **Testing:** Unit testing, UI testing (Espresso, JUnit), automation, test-driven development (TDD)
+- **UI/UX:** Design systems, Internationalization, Component libraries, Accessibility (WCAG)  
+- **Testing:** Unit testing, UI testing (Espresso, JUnit), Automation, Test-Driven Development (TDD)
 
 ---  
 
