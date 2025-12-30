@@ -24,11 +24,11 @@ Senior Android Developer with 15+ years of experience building scalable, maintai
 - **Jetpack Compose:** 5+ years, responsive design, State driven
 - **Security:** Secure coding, E2E Encryption, Best practices, Auth patterns, Certs, Storage
 - **Domain Expertise:** Financial Services, AI & Voice Assistants, System UI, E-commerce, Media  
-- **Concurrency:** Coroutines, Flow, Threadpools, RxJava, multithreading, concurrent design patterns  
+- **Concurrency:** Coroutines, Flow, RxJava, multithreading, concurrent design patterns  
 - **Databases:** UltraLite, Room, SQLite, Firebase, Encrypted Cache, SQL  
 - **Architectural Patterns:** MVVM, CLEAN, SOLID, MVI, MVC, MVP  
 - **UI/UX:** Design systems, Internationalization, component libraries, Accessibility (WCAG)  
-- **Testing:** Unit testing, UI testing (Espresso, JUnit), automated tests, test-driven development (TDD)
+- **Testing:** Unit testing, UI testing (Espresso, JUnit), automation, test-driven development (TDD)
 
 ---  
 
