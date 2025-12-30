@@ -1,11 +1,12 @@
 # Steven Tucker  
+
 Senior Android Developer  
 
 Canada (Remote)  
-[+1(647)867‑9541](tel:+16478679541)  
+[+1 (647) 867‑9541](tel:+16478679541)  
 [tuckersteven@hotmail.com](mailto:tuckersteven@hotmail.com)  
 [linkedin.com/in/sdwt](https://www.linkedin.com/in/sdwt/)  
-[tucker-steven.github.io](https://tucker-steven.github.io/)  
+[https://tucker-steven.github.io](https://tucker-steven.github.io/)  
 [Download Resume (PDF)](StevenTucker-Resume.pdf)  
 
 ---  
