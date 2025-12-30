@@ -15,13 +15,9 @@
 
 [Download Resume (PDF)](StevenTucker-Resume.pdf)  
 
----  
-
 ## Professional Summary  
 
 Senior Android Developer with 15+ years of experience building scalable, maintainable apps using Kotlin and Jetpack Compose. Skilled in leading platform modernization, mentoring teams, and collaborating cross-functionally to deliver high-quality mobile solutions. Experienced in remote work and integrating AI-driven features to enhance user experience.  
-
----  
 
 ## Core Skills / Technical Stack  
 
@@ -35,8 +31,6 @@ Senior Android Developer with 15+ years of experience building scalable, maintai
 - **Architectural Patterns:** MVVM, CLEAN, SOLID, MVI, MVC, MVP  
 - **UI/UX:** Design systems, Internationalization, Component libraries, Accessibility (WCAG)  
 - **Testing:** Unit testing, UI testing (Espresso, JUnit), Automation, Test-Driven Development (TDD)
-
----  
 
 ## Professional Experience  
 
@@ -177,8 +171,6 @@ Independant tasks *(2000 – 2007)*
 - **Apps:** Wrote C# app for Softball league for managing game data, attempted C# DirectX game  
 - **Tech:** ASP, PHP, HTML, SQL, C#  
 
----  
-
 ## Leadership & Influence  
 
 - Set technical direction for Android architecture, modularization, and shared libraries  
@@ -187,8 +179,6 @@ Independant tasks *(2000 – 2007)*
 - Influenced cross-functional teams on mobile constraints, APIs, and UX decisions  
 - Led modernization of legacy Android codebases, including Jetpack Compose adoption  
 - Established quality, security, and release practices for production Android apps  
-
----  
 
 ## Education  
 
