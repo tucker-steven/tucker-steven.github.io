@@ -13,7 +13,7 @@ Canada (Remote)
 
 ## Professional Summary  
 
-TBD
+Senior Android Developer with 15+ years of experience building scalable, maintainable apps using Kotlin and Jetpack Compose. Skilled in leading platform modernization, mentoring teams, and collaborating cross-functionally to deliver high-quality mobile solutions. Experienced in remote work and integrating AI-driven features to enhance user experience.  
 
 ---  
 
