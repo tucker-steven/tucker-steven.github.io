@@ -103,6 +103,30 @@ Video Player Library • Shared Codebase Maintenance • Contract
 
 ## Earlier Career (Pre 2015)
 
+### Android Developer — Normative Design (Dec 2014 – Feb 2015)  
+Real Estate • App Development • Contract (Android version of iOS app)  
+
+### Android Developer — ClearBridge Mobile Inc. (Apr 2014 – Nov 2014)  
+News Media • App Maintenance • Contract (USA Today app updates)  
+
+### Agile Engineer — Extreme Labs (Sep 2013 – Mar 2014)  
+Mobile Wallet • Security & Automation • Contract (uGo Wallet & automated project creation)  
+
+### Blackberry Developer — Rogers (Dec 2012 – Apr 2013)  
+Telecom • UI Features • Contract (Dynamic interactive layouts)  
+
+### Full Stack Mobile Developer — Stuck On Inc. (Nov 2012 – Feb 2023)  
+Multiple Domains • Solution Architecture • Permanent (Founder & Lead Developer)  
+
+### Software Engineer / Team Lead — Zynga Inc. (Jun 2010 – Oct 2012)  
+Gaming • Team Lead • Permanent  
+
+### Junior Software Developer — Cathexis Inc. (2007 – 2008)  
+Embedded Systems • Driver Development • Permanent  
+
+### Programmer — Independent (2000 – 2007)  
+Web & Apps • Self-taught Development • Permanent  
+
 ## Leadership & Influence  
 
 - Set technical direction for Android architecture, modularization, and shared libraries  
