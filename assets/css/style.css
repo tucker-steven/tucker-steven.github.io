@@ -10,8 +10,8 @@ url("https://pages-themes.github.io/cayman/assets/css/style.css");
 h3 {
   font-size: 1.15rem;       /* Slightly smaller than default h3 for a resume */
   font-weight: 600;        /* Semi-bold for emphasis */
-  color: #333333;
-  margin-bottom: 0;        /* No gap below h3, so context line is close */
+  color: #333333 !important;
+  margin-bottom: 0 !important;
   line-height: 1.15;
 }
 
@@ -19,8 +19,8 @@ h3 + p {
   font-size: 0.95rem;       /* Smaller for context text */
   color: #555555;          /* Dark grey, professional and subtle */
   font-style: normal;      /* To visually differentiate */
-  margin-top: 0;      /* Small gap above paragraph for breathing */
-  margin-bottom: 0;        /* No gap below, so bullets stay tight */
+  margin-top: 0 !important;      /* Small gap above paragraph for breathing */
+  margin-bottom: 0 !important;        /* No gap below, so bullets stay tight */
   line-height: 1.2;
 }
 
