@@ -28,142 +28,80 @@ Senior Android Developer with 15+ years of experience building scalable, maintai
 
 ## Professional Experience  
 
-**Senior Android Developer**    
-BC Ferries Services Inc *(Dec 2024 – Nov 2025)*  
-- **MPOS:** Mobile POS for ticketing and reservation redemption  
-- **CSD:** Trained and optimized client side models  
-- **Tech:** Kotlin, Java, MobiControl, UDB, ZPL  
+### Senior Android Developer — BC Ferries Services Inc (2024–2026)  
+Mobile POS • Client-side ML Optimization • Contract  
+- Developed MPOS app for ticketing and reservation redemption, improving transaction speed and reliability  
+- Trained and optimized client-side machine learning models to enhance user experience and accuracy  
+- Utilized Kotlin, Java, MobiControl, UDB, and ZPL technologies to support diverse hardware  
 
-**Senior Android Developer**    
-Rivian Automotive Inc *(Dec 2023 – Jun 2024)*  
-- **Voice Assistant:** Replaced Alexa with inhouse assistant using Sherpa and ONNX  
-- **LLM AI:** Trained and optimized client side models  
-- **System UI:** Fixes and features related to voice control functionality  
+### Senior Android Developer — Rivian Automotive Inc (2023–2024)  
+AI & Voice Assistant • System UI • Contract (Platform Replacement)  
+- Replaced Alexa with an in-house voice assistant using Sherpa and ONNX, improving responsiveness and privacy  
+- Trained and optimized large language models for efficient client-side inference  
+- Implemented system UI fixes and voice control features enhancing user interaction  
 
-**Senior Android Developer/Lead**  
-Thoughtworks (Project/Contract completed) *(Mar 2023 – Sep 2023)*  
-- **Peloton Voice:** Lead the team in developing everything voice related, refactoring, and new indicator  
-- **Shared modules:** Worked with other leads to implement shared modules for voice features  
-- **Lead:** Orchestrated changes and refactoring for long term strategy  
-- **Tech:** Kotlin, Java, AOSP  
+### Senior Android Developer / Lead — Thoughtworks (2023)  
+Voice Assistant • Shared Modules • Contract  
+- Led development and refactoring of Peloton Voice features, improving voice interaction quality  
+- Collaborated with team leads to implement shared voice feature modules, increasing code reuse  
+- Orchestrated long-term architectural changes to improve maintainability  
+- Technologies: Kotlin, Java, AOSP  
 
-**Senior Android Developer**  
-Dr. Bill *(May 2022 – Nov 2022)*  
-- **Develop:** Architect and implement changes to migrate from Room database to live calls  
-- **Bug fix:** Track down and fix bugs based on reports, customer feedback, and log tracing  
-- **Tech:** Kotlin, Room, KMP  
+### Senior Android Developer — Dr. Bill (2022)  
+Room Migration • Bug Fixing • Contract  
+- Architected and implemented migration from Room database to live API calls, improving data freshness  
+- Investigated and resolved bugs using customer feedback and log analysis  
+- Technologies: Kotlin, Room, Kotlin Multiplatform  
 
-**Senior Android Developer**  
-Robots & Pencils (Projects completed) *(Mar 2021 – Mar 2022)*  
-- **Student App:** Implemented, Tested, and gave UX feedback on university app – Compose Hybrid  
-- **Greenwood bank:** Bug fixes and last minute implementations before launch – Pure Compose  
-- **Securitas:** Version 2 features of reporting app – Compose Hybrid  
-- **Tech:** Kotlin, Compose  
+### Senior Android Developer — Robots & Pencils (2021–2022)  
+Compose Hybrid Apps • UX Feedback • Contract  
+- Developed and tested university student app with hybrid Compose UI, improving user engagement  
+- Delivered bug fixes and feature enhancements for Greenwood Bank’s pure Compose app before launch  
+- Implemented version 2 features for Securitas reporting app with Compose Hybrid architecture  
+- Technologies: Kotlin, Jetpack Compose  
 
-**Senior Android Developer**  
-Walmart (Office closed) *(Mar 2020 – Mar 2021)*  
-- **Android:** Main responsibility was to add and fix Android features  
-- **Migration:** Regularly assisted with migrating from native to React Native  
-- **Automation:** We assisted with automated testing using Appium, and builds with Looper  
-- **Tech:** Java, Kotlin, React Native  
+### Senior Android Developer — Walmart (2020–2021)  
+Feature Development • Migration Assistance • Contract  
+- Delivered key Android feature updates and bug fixes to improve app stability and usability  
+- Assisted with migration from native Android to React Native framework, easing transition  
+- Supported automated testing efforts using Appium and CI/CD build pipelines  
+- Technologies: Java, Kotlin, React Native  
 
-**Principle Android Developer**  
-Trader Corp *(Jun 2019 – Nov 2019)*  
-- **Architect:** Responsible for modularizing the codebase and designing new libraries  
-- **Android Lead:** Mentor new and existing team members. Manage technical issues within team  
-- **Developer:** Implement features (push, re-engagement), bug fixing, recommend improvements  
-- **Tech:** Java, Kotlin, Salesforce, Swift  
+### Principal Android Developer — Trader Corp (2019)  
+Modularization • Team Mentorship • Contract  
+- Architected modular codebase and designed reusable libraries to improve scalability  
+- Mentored new and existing team members, resolving technical challenges  
+- Implemented push notifications and user re-engagement features  
+- Technologies: Java, Kotlin, Salesforce, Swift  
 
-**Mobile Technical Lead**  
-Scotiabank (Caribbean) *(Oct 2018 – Mar 2019)*  
-- **Lead:** Lead technical discussions and solutions for a new mobile app  
-- **Team:** Helped organize new team with agile practices and training related to mobile  
-- **Android:** Architected Android codebase and best practices  
-- **Security:** Scanned and implemented security features  
-- **Tech:** Java, Kotlin, Swift, Robolectric  
+### Mobile Technical Lead — Scotiabank (Caribbean) (2018–2019)  
+Mobile App Architecture • Security • Contract  
+- Led technical discussions and solution design for a new mobile banking app  
+- Organized agile team practices and mobile-focused training  
+- Architected Android codebase and implemented security features including scanning and authentication  
+- Technologies: Java, Kotlin, Swift, Robolectric  
 
-**Senior Android Developer / Team Lead**  
-Compass Digital (Project completed) *(Mar 2017 – May 2018)*  
-- **Bonapp:** Architect and implement menu and ordering app  
-- **Core Libraries:** Created libraries to make components reusable and testable  
-- **Tech:** Java  
+### Senior Android Developer / Team Lead — Compass Digital (2017–2018)  
+Menu & Ordering App • Core Libraries • Contract  
+- Architected and implemented menu and ordering application, improving client UX  
+- Developed reusable core libraries to enhance component testability and maintainability  
+- Technologies: Java  
 
-**Senior Android Developer / Team Lead**  
-TD Canada Trust *(Aug 2016 – Feb 2017)*  
-- **Universal App:** Helped lead a team to refactor UI to support tablet  
-- **DCX Liaison:** SME for UI, created shared components from guide, addressed dev questions  
-- **Profile & Settings:** Helped lead a team to add profiles and rewrite settings  
-- **Tech:** Java  
+### Senior Android Developer / Team Lead — TD Canada Trust (2016–2017)  
+UI Refactor • Shared Components • Contract  
+- Led UI refactor to support tablet devices and improve responsiveness  
+- Served as SME for UI, created shared components based on design guides, and resolved developer queries  
+- Led development of profile and settings features with focus on usability  
+- Technologies: Java  
 
-**Senior Android Developer**  
-Bell Media Inc. *(May 2015 – Apr 2016)*  
-- **One Player:** Rewrite and maintain video player library using best practices and design patterns  
-- **CTV, Discovery, Comedy, Space, TSN, RDS:** Maintained and updated shared code base  
-- **TMN, BNN, CraveTV:** Updated code base with One Player  
-- **Processes:** Added tests, documentation, sample apps, and release notes to library  
-- **Tech:** java  
+### Senior Android Developer — Bell Media Inc. (2015–2016)  
+Video Player Library • Shared Codebase Maintenance • Contract  
+- Rewrote and maintained video player library applying best practices and design patterns  
+- Maintained shared codebase for multiple media apps including CTV and CraveTV  
+- Added unit tests, documentation, sample apps, and release notes to support library adoption  
+- Technologies: Java  
 
-**Android Developer**  
-Normative Design (Short term project contract) *(Dec 2014 – Feb 2015)*  
-- **Pillar To Post:** Wrote Android version of iOS real estate app  
-- **Tech:** Java  
-
-**Android Developer**  
-ClearBridge Mobile Inc. (Office moved) *(Apr 2014 – Nov 2014)*  
-- **USA Today:** Updated and maintained app, enhanced user experience  
-- **Tech:** Java  
-
-**Agile Engineer**  
-Extreme Labs (Acquired by Pivotal) (Contract - Blackberry) *(Sep 2013 – Mar 2014)*  
-- **uGo Wallet:** Architected mobile wallet using end to end encryption, SIM applets, NFC/RFID  
-- **XL Studio:** Added automated project creation to prepopulate git repo with code base  
-- **Tech:** Blackberry, Android, Ruby, Java, RFID, SIM Applet  
-
-**Blackberry Developer**  
-Rogers (Short term project contract) *(Dec 2012 – Apr 2013)*  
-- **Rogers/FIDO My Account:** Added new views for dynamically created interactive layouts  
-- **Tech:** Java, Blackberry  
-
-**Full Stack Mobile Developer**  
-Stuck On Inc. (My company) *(Nov 2012 – Feb 2023)*  
-- **ESL Helper:** Solution/Software Architect, Managed team of 20 for services, content, design  
-- **PinPon:** Building an app for delivery and in-store menus to compete with Doordash, etc  
-- **Easy Note:** I made an app to make it easier to write and sort notes  
-- **Playway:** Simple app for finding playgrounds  
-- **E-Shop:** App to scan barcodes for any store  
-- **Vipped:** VIP invite only app to offer specialized promotions for the VIP clientele  
-- **User First:** About to publish new design system based on mobile first and user experience  
-- **Conference Demo:** Video conference call demo with private and public chat rooms  
-- **Weather Demo:** Weather app using 3rd party graphs, REST API, GPS and maps  
-- **Giofi:** Solution Architect of Fashion app for client  
-- **Environment:** Custom Jira, Github, HipChat, Automated uploads  
-- **Tech:** Java, Kotlin, Compose, HTML5, Figma, MD, Android, API, Web, JSON, SQL, AWS, NoSQL  
-
-**Software Engineer / Team Lead: Zynga Inc.**  
-Five Mobile Inc. (acquired by Zynga) *(Jun 2010 – Oct 2012)*  
-- **Zynga Poker:** Added features, bug fixes, eventually lead team  
-- **Words With Friends:** Assisted with feature development  
-- **GDK:** Implemented core library for game development, lead team for some components  
-- **Slots With Friends:** Solo team for developing slots demo app  
-- **Solitaire:** Built reusable library for card games  
-- **Reports:** Profiled pages, optimized SQL calls, and added caching  
-- **Cineplex:** Wrote UI for entire app  
-- **The Score:** Added sports and maintained code base using cross platform design  
-- **Tech:** Java, Android, Blackberry, TV, SQL,  
-
-**Junior Software Developer**  
-Cathexis Inc. (Became IDBlue Inc.) *(2007 – 2008)*  
-- **ID Blue:** Exposure to debugging from Oscilloscope to C, C++, C#, over Serial, Bluetooth, USB  
-- **Drivers:** Wrote C++ drivers for communicating with device and marshaled it C#  
-- **Demos:** Wrote Demos in C# and XaML for clients including Bill Gates  
-- **Tech:** Palm Pilot (.Net), Blackberry, Binary, Oscilloscope, Drivers, RFID, Bluetooth, Java, C, C++, C#, Windows Phone, Xaml 
-
-**Programmer**  
-Independant tasks *(2000 – 2007)*  
-- **Web:** Bio pages for university, restaurant menus, Tic Tac Toe game, Utils for work and school  
-- **Web POS:** Wrote ASP POS for bridal rental company  
-- **Apps:** Wrote C# app for Softball league for managing game data, attempted C# DirectX game  
-- **Tech:** ASP, PHP, HTML, SQL, C#  
+## Earlier Career (Pre 2015)
 
 ## Leadership & Influence  
 
