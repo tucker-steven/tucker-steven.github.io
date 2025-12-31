@@ -9,14 +9,15 @@ url("https://pages-themes.github.io/cayman/assets/css/style.css");
 
 h3 {
   color: #333333 !important;
-  margin-bottom: 0.15rem !important;
+  font-weight: 700 !important;
+  margin-bottom: 0.3rem !important;
 }
 
 h3 + p {
-  font-size: 0.95rem;       /* Smaller for context text */
-  color: #555555;          /* Dark grey, professional and subtle */
-  margin-top: 0 !important;      /* Small gap above paragraph for breathing */
-  margin-bottom: 0.15rem !important;        /* No gap below, so bullets stay tight */
+  font-size: 0.95rem;
+  color: #555555 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0.3rem !important;
 }
 
 .page-header {
