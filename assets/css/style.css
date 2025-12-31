@@ -7,6 +7,23 @@ url("https://pages-themes.github.io/cayman/assets/css/style.css");
   padding: 4px 0; /* optional spacing between rows */
 }
 
+h3 {
+  font-size: 1.2rem;       /* Slightly smaller than default h3 for a resume */
+  font-weight: 600;        /* Semi-bold for emphasis */
+  color: #005a4e;          /* Deep, professional green - easy on eyes */
+  margin-bottom: 0;        /* No gap below h3, so context line is close */
+  line-height: 1.3;
+}
+
+h3 + p {
+  font-size: 0.9rem;       /* Smaller for context text */
+  color: #4a4a4a;          /* Dark grey, professional and subtle */
+  font-style: italic;      /* To visually differentiate */
+  margin-top: 0.15em;      /* Small gap above paragraph for breathing */
+  margin-bottom: 0;        /* No gap below, so bullets stay tight */
+  line-height: 1.4;
+}
+
 .page-header {
   position: sticky;
   top: 0;
