@@ -8,14 +8,14 @@ url("https://pages-themes.github.io/cayman/assets/css/style.css");
 }
 
 h3 {
-  color: #333333 !important;
-  font-weight: 700 !important;
-  margin-bottom: 0.3rem !important;
+  color: #666666 !important;
+  font-weight: 600 !important;
+  margin-bottom: 0.15rem !important;
 }
 
 h3 + p {
   font-size: 0.95rem;
-  color: #555555 !important;
+  color: #999999 !important;
   margin-top: 0 !important;
   margin-bottom: 0.3rem !important;
 }
