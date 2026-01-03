@@ -41,25 +41,25 @@ AI & Voice Assistant • System UI • Contract (Project for Alexa Replacement w
 - Implemented system UI modifications and voice control features enhancing user interaction  
 
 ### Senior Android Developer / Lead — Thoughtworks (2023)  
-Voice Assistant • Shared Modules • System UI • Contract (Voice commands for hands-free operation)  
+Voice Assistant • System UI • Team Lead • Contract (Voice commands for hands-free operation)  
 - Led development and refactoring of Voice features, improving voice interaction quality  
 - Collaborated with team leads to implement shared voice modules, increasing code reuse  
 - Orchestrated long-term architectural changes to improve maintainability  
 
 ### Senior Android Developer — Dr. Bill (2022)  
-Room Migration • Bug Fixing • Contract (Migration from local Room DB to live fetching)  
+Room Migration • Contract (Migration from local Room DB to live fetching)  
 - Architected and implemented migration from Room database to live API calls, improving data freshness  
 - Investigated and resolved bugs using customer feedback and log analysis  
 - Enhanced app stability and user experience through proactive issue resolution and performance improvements
 
 ### Senior Android Developer — Robots & Pencils (2021–2022)  
-Compose hybrid apps • UX feedback • Contract (Multiple app deliveries and enhancements)  
+Compose hybrid apps • UX feedback • Contract (Multiple app deliveries)  
 - Developed and tested university student app with hybrid Compose UI, improving user engagement  
 - Delivered bug fixes and feature enhancements for Greenwood Bank’s pure Compose app before launch  
 - Implemented features for Securitas reporting app with Compose Hybrid architecture  
 
 ### Senior Android Developer — Walmart (2020–2021)  
-Feature development • Migration assistance • Contract (Office closure and platform migration)  
+Migration assistance • Team Lead • Contract (platform migration and Office closure)  
 - Delivered key Android feature updates and bug fixes to improve app stability and usability  
 - Assisted with migration from native Android to React Native framework, easing transition  
 - Supported automated testing efforts using Appium and CI/CD build pipelines  
@@ -71,7 +71,7 @@ Modularization • Team mentorship • Contract (Codebase modularization and fea
 - Implemented push notifications and user re-engagement features  
 
 ### Mobile Technical Lead — Scotiabank (Caribbean) (2018–2019)  
-Mobile app architecture • Security • Contract (New banking app and team leadership)  
+FinTech • Security • Mobile Lead • Contract (New banking app and team leadership)  
 - Led technical discussions and solution design for a new mobile banking app  
 - Organized agile team practices and mobile-focused training  
 - Architected codebase and implemented security features including scanning and authentication  
