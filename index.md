@@ -3,7 +3,7 @@
 Senior Android Developer  
 
 Canada (Remote)  
-[+1 (647) 867‑9541](tel:+16478679541)  
+[+1 (647) 867-9541](tel:+16478679541)  
 [tuckersteven@hotmail.com](mailto:tuckersteven@hotmail.com)  
 [https://linkedin.com/in/sdwt](https://www.linkedin.com/in/sdwt/)  
 [https://tucker-steven.github.io](https://tucker-steven.github.io/)  
@@ -41,25 +41,25 @@ AI & Voice Assistant • System UI • Contract (Project for Alexa Replacement w
 - Implemented system UI modifications and voice control features enhancing user interaction  
 
 ### Senior Android Developer / Lead — Thoughtworks (2023)  
-Voice Assistant • System UI • Team Lead • Contract (Voice commands for hands-free operation)  
+Voice Assistant • System UI • Contract (Voice commands for hands-free operation)  
 - Led development and refactoring of Voice features, improving voice interaction quality  
 - Collaborated with team leads to implement shared voice modules, increasing code reuse  
 - Orchestrated long-term architectural changes to improve maintainability  
 
 ### Senior Android Developer — Dr. Bill (2022)  
-Room Migration • Contract (Migration from local Room DB to live fetching)  
+Healthcare • Room Migration • Contract (Project for DB migration)  
 - Architected and implemented migration from Room database to live API calls, improving data freshness  
 - Investigated and resolved bugs using customer feedback and log analysis  
 - Enhanced app stability and user experience through proactive issue resolution and performance improvements
 
 ### Senior Android Developer — Robots & Pencils (2021–2022)  
-Compose hybrid apps • UX feedback • Contract (Multiple app deliveries)  
+FinTech • Education • Compose hybrid apps • Contract (Multiple app deliveries)  
 - Developed and tested university student app with hybrid Compose UI, improving user engagement  
 - Delivered bug fixes and feature enhancements for Greenwood Bank’s pure Compose app before launch  
 - Implemented features for Securitas reporting app with Compose Hybrid architecture  
 
-### Senior Android Developer — Walmart (2020–2021)  
-Migration assistance • Team Lead • Contract (platform migration and Office closure)  
+### Senior Android Developer / Lead — Walmart (2020–2021)  
+E-Commerce • Migration assistance • Contract (platform migration and Office closure)  
 - Delivered key Android feature updates and bug fixes to improve app stability and usability  
 - Assisted with migration from native Android to React Native framework, easing transition  
 - Supported automated testing efforts using Appium and CI/CD build pipelines  
