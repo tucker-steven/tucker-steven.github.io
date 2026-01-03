@@ -42,8 +42,8 @@ AI & Voice Assistant • System UI • Contract (Project for Alexa Replacement w
 
 ### Senior Android Developer / Lead — Thoughtworks (2023)  
 Voice Assistant • Shared Modules • System UI • Contract (Voice commands for hands-free operation)  
-- Led development and refactoring of Peloton Voice features, improving voice interaction quality  
-- Collaborated with team leads to implement shared voice feature modules, increasing code reuse  
+- Led development and refactoring of Voice features, improving voice interaction quality  
+- Collaborated with team leads to implement shared voice modules, increasing code reuse  
 - Orchestrated long-term architectural changes to improve maintainability  
 
 ### Senior Android Developer — Dr. Bill (2022)  
@@ -56,7 +56,7 @@ Room Migration • Bug Fixing • Contract (Migration from local Room DB to live
 Compose hybrid apps • UX feedback • Contract (Multiple app deliveries and enhancements)  
 - Developed and tested university student app with hybrid Compose UI, improving user engagement  
 - Delivered bug fixes and feature enhancements for Greenwood Bank’s pure Compose app before launch  
-- Implemented version 2 features for Securitas reporting app with Compose Hybrid architecture  
+- Implemented features for Securitas reporting app with Compose Hybrid architecture  
 
 ### Senior Android Developer — Walmart (2020–2021)  
 Feature development • Migration assistance • Contract (Office closure and platform migration)  
@@ -74,7 +74,7 @@ Modularization • Team mentorship • Contract (Codebase modularization and fea
 Mobile app architecture • Security • Contract (New banking app and team leadership)  
 - Led technical discussions and solution design for a new mobile banking app  
 - Organized agile team practices and mobile-focused training  
-- Architected Android codebase and implemented security features including scanning and authentication  
+- Architected codebase and implemented security features including scanning and authentication  
 
 ### Senior Android Developer / Team Lead — Compass Digital (2017–2018)  
 Menu & ordering app • Core libraries • Contract (Menu app architecture and core library development)  
