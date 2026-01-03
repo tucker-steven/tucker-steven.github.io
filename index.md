@@ -28,78 +28,70 @@ Senior Android Developer with 15+ years of experience building scalable, maintai
 
 ## Professional Experience  
 
-### Senior Android Developer — BC Ferries Services Inc (2024–2026)  
-Mobile POS • Client-side ML Optimization • Contract  
-- Developed MPOS app for ticketing and reservation redemption, improving transaction speed and reliability  
-- Trained and optimized client-side machine learning models to enhance user experience and accuracy  
-- Utilized Kotlin, Java, MobiControl, UDB, and ZPL technologies to support diverse hardware  
+### Senior Android Developer — BC Ferries Services Inc  
+Mobile ticketing • Data model optimization • Contract (Mobile POS rewrite)  
+- Delivered a modern mobile POS system for ticketing and reservation redemption, enhancing user experience  
+- Developed and optimized Kotlin data models synchronized with SQL tables, improving data handling efficiency  
+- Utilized Kotlin, MobiControl, UDB, and ZPL technologies with custom hardware to deliver efficient modern solutions
 
 ### Senior Android Developer — Rivian Automotive Inc (2023–2024)  
-AI & Voice Assistant • System UI • Contract (Platform Replacement)  
-- Replaced Alexa with an in-house voice assistant using Sherpa and ONNX, improving responsiveness and privacy  
+AI & Voice Assistant • System UI • Contract (Project for Alexa Replacement with LLM)  
+- Replaced Alexa with an in-house voice assistant using Sherpa and ONNX, improving responsiveness and customizability  
 - Trained and optimized large language models for efficient client-side inference  
-- Implemented system UI fixes and voice control features enhancing user interaction  
+- Implemented system UI modifications and voice control features enhancing user interaction  
 
 ### Senior Android Developer / Lead — Thoughtworks (2023)  
-Voice Assistant • Shared Modules • Contract  
+Voice Assistant • Shared Modules • System UI • Contract (Voice commands for hands-free operation)  
 - Led development and refactoring of Peloton Voice features, improving voice interaction quality  
 - Collaborated with team leads to implement shared voice feature modules, increasing code reuse  
 - Orchestrated long-term architectural changes to improve maintainability  
-- Technologies: Kotlin, Java, AOSP  
 
 ### Senior Android Developer — Dr. Bill (2022)  
-Room Migration • Bug Fixing • Contract  
+Room Migration • Bug Fixing • Contract (Migration from local Room DB to live fetching)  
 - Architected and implemented migration from Room database to live API calls, improving data freshness  
 - Investigated and resolved bugs using customer feedback and log analysis  
-- Technologies: Kotlin, Room, Kotlin Multiplatform  
+- Enhanced app stability and user experience through proactive issue resolution and performance improvements
 
 ### Senior Android Developer — Robots & Pencils (2021–2022)  
-Compose Hybrid Apps • UX Feedback • Contract  
+Compose hybrid apps • UX feedback • Contract (Multiple app deliveries and enhancements)  
 - Developed and tested university student app with hybrid Compose UI, improving user engagement  
 - Delivered bug fixes and feature enhancements for Greenwood Bank’s pure Compose app before launch  
 - Implemented version 2 features for Securitas reporting app with Compose Hybrid architecture  
-- Technologies: Kotlin, Jetpack Compose  
 
 ### Senior Android Developer — Walmart (2020–2021)  
-Feature Development • Migration Assistance • Contract  
+Feature development • Migration assistance • Contract (Office closure and platform migration)  
 - Delivered key Android feature updates and bug fixes to improve app stability and usability  
 - Assisted with migration from native Android to React Native framework, easing transition  
 - Supported automated testing efforts using Appium and CI/CD build pipelines  
-- Technologies: Java, Kotlin, React Native  
 
 ### Principal Android Developer — Trader Corp (2019)  
-Modularization • Team Mentorship • Contract  
+Modularization • Team mentorship • Contract (Codebase modularization and feature rollout)  
 - Architected modular codebase and designed reusable libraries to improve scalability  
 - Mentored new and existing team members, resolving technical challenges  
 - Implemented push notifications and user re-engagement features  
-- Technologies: Java, Kotlin, Salesforce, Swift  
 
 ### Mobile Technical Lead — Scotiabank (Caribbean) (2018–2019)  
-Mobile App Architecture • Security • Contract  
+Mobile app architecture • Security • Contract (New banking app and team leadership)  
 - Led technical discussions and solution design for a new mobile banking app  
 - Organized agile team practices and mobile-focused training  
 - Architected Android codebase and implemented security features including scanning and authentication  
-- Technologies: Java, Kotlin, Swift, Robolectric  
 
 ### Senior Android Developer / Team Lead — Compass Digital (2017–2018)  
-Menu & Ordering App • Core Libraries • Contract  
+Menu & ordering app • Core libraries • Contract (Menu app architecture and core library development)  
 - Architected and implemented menu and ordering application, improving client UX  
 - Developed reusable core libraries to enhance component testability and maintainability  
-- Technologies: Java  
 
 ### Senior Android Developer / Team Lead — TD Canada Trust (2016–2017)  
-UI Refactor • Shared Components • Contract  
+UI refactor • Shared components • Contract (UI overhaul and shared component creation)  
 - Led UI refactor to support tablet devices and improve responsiveness  
 - Served as SME for UI, created shared components based on design guides, and resolved developer queries  
 - Led development of profile and settings features with focus on usability  
-- Technologies: Java  
 
 ### Senior Android Developer — Bell Media Inc. (2015–2016)  
-Video Player Library • Shared Codebase Maintenance • Contract  
+Video player library • Shared codebase maintenance • Contract (Video player rewrite and multi-app support)  
 - Rewrote and maintained video player library applying best practices and design patterns  
 - Maintained shared codebase for multiple media apps including CTV and CraveTV  
 - Added unit tests, documentation, sample apps, and release notes to support library adoption  
-- Technologies: Java  
 
 ## Earlier Career (Pre 2015)
 
