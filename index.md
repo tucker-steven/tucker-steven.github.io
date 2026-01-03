@@ -15,7 +15,7 @@ Senior Android Developer with 15+ years of experience building scalable, maintai
 
 ## Core Skills / Technical Stack  
 
-- **Core Android Development:** 15+ years, Android 1.6 to 14, White label apps & Flavors  
+- **Core Android Development:** 15+ years, Android 1.6 to 14, White-label apps & Flavors  
 - **Kotlin:** 6+ years, Extensions, Higher-Order functions, Class types, Generics, Delegation  
 - **Jetpack Compose:** 5+ years, Responsive design, State-Driven UI
 - **Security:** Secure coding, E2E Encryption, Best practices, Auth patterns, Certs, Storage
@@ -96,6 +96,20 @@ Video player library • Contract (Video player rewrite and multi-app support)
 - Maintained shared codebase for multiple media apps including CTV and CraveTV  
 - Added unit tests, documentation, sample apps, and release notes to support library adoption  
 
+## Leadership & Influence  
+
+- Set technical direction for Android architecture, modularization, and shared libraries  
+- Led voice and on-device AI initiatives at the platform and system UI level  
+- Mentored developers through code reviews, refactoring, and design discussions  
+- Influenced cross-functional teams on mobile constraints, APIs, and UX decisions  
+- Led modernization of legacy Android codebases, including Jetpack Compose adoption  
+- Established quality, security, and release practices for production Android apps  
+
+## Education  
+
+**Computer Science & Business Administration**  
+Memorial University of Newfoundland  
+
 ## Earlier Career (Pre 2015)
 
 ### Android Developer — Normative Design (2014–2015)  
@@ -122,16 +136,4 @@ Driver Development • Bluetooth • RFID • C, .NETCF, JAVA • Permanent (Com
 ### Programmer — Independent (2000–2007)  
 Web & Apps • Self-taught Development  
 
-## Leadership & Influence  
 
-- Set technical direction for Android architecture, modularization, and shared libraries  
-- Led voice and on-device AI initiatives at the platform and system UI level  
-- Mentored developers through code reviews, refactoring, and design discussions  
-- Influenced cross-functional teams on mobile constraints, APIs, and UX decisions  
-- Led modernization of legacy Android codebases, including Jetpack Compose adoption  
-- Established quality, security, and release practices for production Android apps  
-
-## Education  
-
-**Computer Science & Business Administration**  
-Memorial University of Newfoundland
