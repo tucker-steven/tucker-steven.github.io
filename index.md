@@ -25,10 +25,11 @@ Senior Android Developer with 15+ years of experience building scalable, maintai
 - **Architectural Patterns:** MVVM, CLEAN, SOLID, MVI, MVC, MVP  
 - **UI/UX:** Design systems, Internationalization, Component libraries, Accessibility (WCAG)  
 - **Testing:** Unit testing, UI testing (Espresso, JUnit), Automation, Test-Driven Development (TDD)
+- **Tech:** Dependency Injection, ViewModel, LiveData, Retrofit, REST APIs, Android SDK  
 
-## Professional Experience  
+## Experience  
 
-### Senior Android Developer — BC Ferries Services Inc  
+### Senior Android Developer — BC Ferries Services Inc (2024–2026)  
 Mobile ticketing • Data model optimization • Contract (Mobile POS rewrite)  
 - Delivered a modern mobile POS system for ticketing and reservation redemption, enhancing user experience  
 - Developed and optimized Kotlin data models synchronized with SQL tables, improving data handling efficiency  
@@ -53,7 +54,7 @@ Healthcare • Room Migration • Contract (Project for DB migration)
 - Enhanced app stability and user experience through proactive issue resolution and performance improvements
 
 ### Senior Android Developer — Robots & Pencils (2021–2022)  
-FinTech • Education • Compose hybrid apps • Contract (Multiple app deliveries)  
+Fintech • Education • Compose hybrid apps • Contract (Multiple app deliveries)  
 - Developed and tested university student app with hybrid Compose UI, improving user engagement  
 - Delivered bug fixes and feature enhancements for Greenwood Bank’s pure Compose app before launch  
 - Implemented features for Securitas reporting app with Compose Hybrid architecture
@@ -72,7 +73,7 @@ Modularization • Team mentorship • Contract (Codebase modularization and fea
 - Implemented push notifications and user re-engagement features  
 
 ### Mobile Technical Lead — Scotiabank (Caribbean) (2018–2019)  
-FinTech • Security • Mobile Lead • Contract (New banking app and team leadership)  
+Fintech • Security • Mobile Lead • Contract (New banking app and team leadership)  
 - Led technical discussions and solution design for a new mobile banking app  
 - Organized agile team practices and mobile-focused training  
 - Architected codebase and implemented security features including scanning and authentication
