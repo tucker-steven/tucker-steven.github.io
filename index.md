@@ -103,29 +103,29 @@ Video Player Library • Shared Codebase Maintenance • Contract
 
 ## Earlier Career (Pre 2015)
 
-### Android Developer — Normative Design (Dec 2014 – Feb 2015)  
-Real Estate • App Development • Contract (Android version of iOS app)  
+### Android Developer — Normative Design (2014–2015)  
+Real Estate • App Development • Contract (Project for Android version of iOS app)  
 
-### Android Developer — ClearBridge Mobile Inc. (Apr 2014 – Nov 2014)  
+### Android Developer — ClearBridge Mobile Inc. (2014)  
 News Media • App Maintenance • Contract (USA Today app updates)  
 
-### Agile Engineer — Extreme Labs (Sep 2013 – Mar 2014)  
-Mobile Wallet • Security & Automation • Contract (uGo Wallet & automated project creation)  
+### Agile Engineer — Extreme Labs (2013–2014)  
+Mobile Wallet • Security • Automation • TDD • Lead • Contract (Projects for uGo Wallet & automated project creation)  
 
-### Blackberry Developer — Rogers (Dec 2012 – Apr 2013)  
-Telecom • UI Features • Contract (Dynamic interactive layouts)  
+### Blackberry Developer — Rogers (2012–2013)  
+Telecom • Contract (Project for Dynamic interactive layouts)  
 
-### Full Stack Mobile Developer — Stuck On Inc. (Nov 2012 – Feb 2023)  
+### Full Stack Mobile Developer — Stuck On Inc. (2012–2023)  
 Multiple Domains • Solution Architecture • Permanent (Founder & Lead Developer)  
 
-### Software Engineer / Team Lead — Zynga Inc. (Jun 2010 – Oct 2012)  
-Gaming • Team Lead • Permanent  
+### Software Engineer / Team Lead — Zynga Inc. (2010–2012)  
+Gaming & Media • Blackberry & Android • Team Lead • Permanent  
 
-### Junior Software Developer — Cathexis Inc. (2007 – 2008)  
-Embedded Systems • Driver Development • Permanent  
+### Junior Software Developer — Cathexis Inc. (2007–2008)  
+Driver Development • Bluetooth Stack • BB, C, C++, C#, Java, .NETCF • Permanent (Company was acquired)  
 
-### Programmer — Independent (2000 – 2007)  
-Web & Apps • Self-taught Development • Permanent  
+### Programmer — Independent (2000–2007)  
+Web & Apps • Self-taught Development  
 
 ## Leadership & Influence  
 
