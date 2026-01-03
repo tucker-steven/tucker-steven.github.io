@@ -56,7 +56,8 @@ Healthcare • Room Migration • Contract (Project for DB migration)
 FinTech • Education • Compose hybrid apps • Contract (Multiple app deliveries)  
 - Developed and tested university student app with hybrid Compose UI, improving user engagement  
 - Delivered bug fixes and feature enhancements for Greenwood Bank’s pure Compose app before launch  
-- Implemented features for Securitas reporting app with Compose Hybrid architecture  
+- Implemented features for Securitas reporting app with Compose Hybrid architecture
+- Implemented and tested WCAG Accessibility compliance  
 
 ### Senior Android Developer / Lead — Walmart (2020–2021)  
 E-Commerce • Migration assistance • Contract (platform migration and Office closure)  
@@ -74,21 +75,22 @@ Modularization • Team mentorship • Contract (Codebase modularization and fea
 FinTech • Security • Mobile Lead • Contract (New banking app and team leadership)  
 - Led technical discussions and solution design for a new mobile banking app  
 - Organized agile team practices and mobile-focused training  
-- Architected codebase and implemented security features including scanning and authentication  
+- Architected codebase and implemented security features including scanning and authentication
+- Guided UI design with WCAG compliance for Accessibility  
 
 ### Senior Android Developer / Team Lead — Compass Digital (2017–2018)  
-Menu & ordering app • Core libraries • Contract (Menu app architecture and core library development)  
+Menu & ordering app • Contract (Project for Menu and ordering app)  
 - Architected and implemented menu and ordering application, improving client UX  
 - Developed reusable core libraries to enhance component testability and maintainability  
 
 ### Senior Android Developer / Team Lead — TD Canada Trust (2016–2017)  
-UI refactor • Shared components • Contract (UI overhaul and shared component creation)  
+UI refactor • Modularization • Contract (UI overhaul and shared component creation)  
 - Led UI refactor to support tablet devices and improve responsiveness  
 - Served as SME for UI, created shared components based on design guides, and resolved developer queries  
 - Led development of profile and settings features with focus on usability  
 
 ### Senior Android Developer — Bell Media Inc. (2015–2016)  
-Video player library • Shared codebase maintenance • Contract (Video player rewrite and multi-app support)  
+Video player library • Contract (Video player rewrite and multi-app support)  
 - Rewrote and maintained video player library applying best practices and design patterns  
 - Maintained shared codebase for multiple media apps including CTV and CraveTV  
 - Added unit tests, documentation, sample apps, and release notes to support library adoption  
