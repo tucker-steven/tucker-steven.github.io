@@ -91,11 +91,10 @@ h3 + p {
     margin-bottom: 0.25rem;
   }
 
-  /* ---- Lists ---- */
   ul,
   ol {
     margin-top: 0.15rem !important;
-    margin-bottom: 0.3rem !important;
+    margin-bottom: 0.6rem !important;
     padding-left: 1.1rem;
   }
 
