@@ -40,6 +40,10 @@ h3 + p {
   margin-top: 0.5rem !important;
 }
 
+.noprint {
+  display: block !important;
+}
+
 .onlyprint {
   display: none !important;
 }
@@ -47,6 +51,9 @@ h3 + p {
 @media print {
   .noprint {
     display: none !important;
+  }
+  .onlyprint {
+    display: block !important;
   }
   
   .page-header {
