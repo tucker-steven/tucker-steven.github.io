@@ -80,7 +80,7 @@ h3 + p {
   }
   h3 {
     font-size: 1rem;
-    margin-top: 0.4rem !important;
+    margin-top: 0.8rem !important;
     margin-bottom: 0.1rem;
     page-break-after: avoid;
   }
@@ -94,7 +94,7 @@ h3 + p {
   ul,
   ol {
     margin-top: 0.15rem !important;
-    margin-bottom: 0.6rem !important;
+    margin-bottom: 0.8rem !important;
     padding-left: 1.1rem;
   }
 
