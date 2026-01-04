@@ -39,7 +39,16 @@ h3 + p {
   padding: 0.3rem 1rem !important;
   margin-top: 0.5rem !important;
 }
+
+.onlyprint {
+  display: none !important;
+}
+
 @media print {
+  .noprint {
+    diplay: none !important;
+  }
+  
   .page-header {
     display: none !important;
   }
