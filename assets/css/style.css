@@ -50,17 +50,14 @@ h3 + p {
 
 @media print {
 
-  /* ---- Base typography tightening ---- */
   body {
     font-size: 11px;
     line-height: 1.35;
   }
 
-  /* ---- Visibility rules ---- */
   .noprint {
     display: none !important;
   }
-
   .onlyprint {
     display: block !important;
     margin-bottom: 0.6rem;
@@ -71,19 +68,16 @@ h3 + p {
     display: none !important;
   }
 
-  /* ---- Headings ---- */
   h1 {
     font-size: 1.6rem;
     margin-bottom: 0.3rem;
   }
-
   h2 {
     font-size: 1.15rem;
     margin-top: 0.8rem;
     margin-bottom: 0.3rem;
     page-break-after: avoid;
   }
-
   h3 {
     font-size: 1rem;
     margin-top: 0.4rem !important;
@@ -101,7 +95,7 @@ h3 + p {
   ul,
   ol {
     margin-top: 0.15rem !important;
-    margin-bottom: 0.2rem !important;
+    margin-bottom: 0.3rem !important;
     padding-left: 1.1rem;
   }
 
@@ -110,14 +104,12 @@ h3 + p {
     page-break-inside: avoid;
   }
 
-  /* ---- Keep experience blocks together ---- */
   h3,
   h3 + p,
   h3 + p + ul {
     page-break-inside: avoid;
   }
 
-  /* ---- Links: clean print output ---- */
   a,
   a:visited {
     color: inherit !important;
@@ -129,12 +121,10 @@ h3 + p {
     content: "" !important;
   }
 
-  /* ---- Paragraph spacing ---- */
   p {
     margin-bottom: 0.3rem !important;
   }
 
-  /* ---- Manual page breaks if needed ---- */
   .page-break {
     page-break-before: always;
   }
