@@ -49,26 +49,93 @@ h3 + p {
 }
 
 @media print {
+
+  /* ---- Base typography tightening ---- */
+  body {
+    font-size: 11px;
+    line-height: 1.35;
+  }
+
+  /* ---- Visibility rules ---- */
   .noprint {
     display: none !important;
   }
+
   .onlyprint {
     display: block !important;
+    margin-bottom: 0.6rem;
   }
-  
-  .page-header {
+
+  .page-header,
+  .site-footer {
     display: none !important;
   }
-  .page-break {
-    page-break-before: always;
+
+  /* ---- Headings ---- */
+  h1 {
+    font-size: 1.6rem;
+    margin-bottom: 0.3rem;
   }
+
+  h2 {
+    font-size: 1.15rem;
+    margin-top: 0.8rem;
+    margin-bottom: 0.3rem;
+    page-break-after: avoid;
+  }
+
+  h3 {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.1rem;
+    page-break-after: avoid;
+  }
+
+  h3 + p {
+    font-size: 0.9rem;
+    margin-top: 0;
+    margin-bottom: 0.25rem;
+  }
+
+  /* ---- Lists ---- */
+  ul,
+  ol {
+    margin-top: 0.15rem !important;
+    margin-bottom: 0.3rem !important;
+    padding-left: 1.1rem;
+  }
+
+  li {
+    margin-bottom: 0.15rem;
+    page-break-inside: avoid;
+  }
+
+  /* ---- Keep experience blocks together ---- */
+  h3,
+  h3 + p,
+  h3 + p + ul {
+    page-break-inside: avoid;
+  }
+
+  /* ---- Links: clean print output ---- */
   a,
   a:visited {
     color: inherit !important;
     text-decoration: none !important;
   }
-  ul,
-  ol {
-    margin-top: 0.2rem !important;
+
+  /* Prevent browser from appending raw URLs */
+  a[href]:after {
+    content: "" !important;
+  }
+
+  /* ---- Paragraph spacing ---- */
+  p {
+    margin-bottom: 0.3rem;
+  }
+
+  /* ---- Manual page breaks if needed ---- */
+  .page-break {
+    page-break-before: always;
   }
 }
