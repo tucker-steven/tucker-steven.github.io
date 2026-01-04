@@ -46,7 +46,7 @@ h3 + p {
 
 @media print {
   .noprint {
-    diplay: none !important;
+    display: none !important;
   }
   
   .page-header {
