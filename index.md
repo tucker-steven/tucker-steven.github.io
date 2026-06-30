@@ -47,6 +47,12 @@ Senior Android Developer with 15+ years of experience building scalable, maintai
 
 ## Experience  
 
+### Senior Android Developer — IBM / PNC (Feb 2026–Jul 2026)  
+Fintech • Modularization • Contract (Banking app rewrite)  
+- Implemented banking features across Transactions and Total Rewards within a large-scale mobile banking application
+- Developed reusable, modular UI components supporting accessibility, localization, and adaptive layouts
+- Collaborated with cross-functional teams to integrate shared modules across the mobile banking platform
+
 ### Senior Android Developer — BC Ferries Services Inc (2024–2026)  
 Mobile ticketing • Data model optimization • Contract (Mobile POS rewrite)  
 - Delivered a modern mobile POS system for ticketing and reservation redemption, enhancing user experience  
