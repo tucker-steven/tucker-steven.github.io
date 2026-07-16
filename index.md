@@ -2,7 +2,7 @@
 
 <div class="noprint">
   <p><strong>Senior Android Developer</strong></p>
-  <p>Toronto, Canada (Remote / Hybrid / Onsite)</p>
+  <p>Toronto, Canada (Remote / Hybrid / On-site)</p>
   <p>
     <a href="tel:+16478679541">+1 (647) 867-9541</a><br/>
     <a href="mailto:tuckersteven@hotmail.com">tuckersteven@hotmail.com</a><br/>
@@ -15,7 +15,7 @@
 <div class="onlyprint">
   <div class="between">
     <span>Senior Android Developer</span>
-    <span>Toronto, Canada (Remote / Hybrid / Onsite)</span>
+    <span>Toronto, Canada (Remote / Hybrid / On-site)</span>
   </div>
   <div class="between">
     <span><a href="tel:+16478679541">+1 (647) 867‑9541</a></span>
